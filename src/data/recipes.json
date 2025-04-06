@@ -1,0 +1,320 @@
+[
+  {
+    "id": 1,
+    "title": "Banana Oats Smoothie",
+    "description": "A quick, nutritious smoothie packed with protein and immunity-boosting ingredients. Great for busy mornings and loved by kids and adults alike.",
+    "image": "/images/recipes/Banana-Oats-Smoothie.jpeg",
+    "time": "5 minutes",
+    "servings": 1,
+    "ingredients": [
+      "1 banana",
+      "1/2 cup oats",
+      "1 pinch cinnamon",
+      "1 inch ginger",
+      "1 cup milk",
+      "2 tsp honey",
+      "1 pinch turmeric"
+    ],
+    "steps": [
+      "Place all ingredients in a blender.",
+      "Blend until smooth.",
+      "Garnish with dry fruits and serve."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Aloo ka Paratha Dhaba Style",
+    "description": "A delicious and spicy stuffed potato flatbread, cooked Dhaba-style. Perfect for breakfast or any meal, served hot with curd, chutney, or tea.",
+    "image": "images/recipes/aloo-paratha.jpg",
+    "time": "20 minutes",
+    "servings": 2,
+    "ingredients": [
+      "5-6 boiled potatoes, mashed",
+      "1 tsp cumin seeds",
+      "1 tsp crushed black pepper",
+      "1 tsp whole coriander",
+      "6-7 garlic cloves",
+      "1 inch ginger",
+      "Chopped coriander leaves",
+      "4-5 green chilies, finely chopped",
+      "1/2 tsp dry mango powder (amchur)",
+      "1/2 tsp garam masala",
+      "1/2 tsp turmeric",
+      "Salt to taste",
+      "Wheat flour dough for paratha",
+      "Ghee for frying"
+    ],
+    "steps": [
+      "Mash the boiled potatoes well and add salt to taste.",
+      "Grind cumin, black pepper, and coriander coarsely.",
+      "Add the crushed spices and chopped coriander leaves to the potatoes.",
+      "Crush garlic and ginger together and mix into the potato filling.",
+      "Add dry mango powder, garam masala, and turmeric. Mix everything well.",
+      "Prepare a soft dough using wheat flour.",
+      "Take a dough ball, stuff it with the potato mixture, and seal the edges.",
+      "Roll the stuffed dough into a flat paratha using some flour.",
+      "Heat a pan, add ghee, and cook the paratha until light golden pink on both sides.",
+      "Serve hot with chutney or curd."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Paneer Tikka Masala",
+    "description": "A rich and flavorful North Indian dish made with marinated paneer and a creamy spiced tomato-onion gravy. A crowd favorite served best with naan or roti.",
+    "image": "images/recipes/paneer-tikka-masala.jpeg",
+    "time": "45 minutes",
+    "servings": 4,
+    "ingredients": [
+      "300g paneer, cut into 1-inch cubes",
+      "1 onion, chopped into 1-inch pieces",
+      "1 capsicum, chopped into 1-inch pieces",
+      "1/4 cup thick yogurt",
+      "1 tsp cornflour",
+      "1 tsp red chilli powder",
+      "2 tsp gram flour (besan)",
+      "1/2 tsp garlic paste",
+      "1/2 tsp ginger paste",
+      "1 tsp coriander powder",
+      "1 tsp cumin powder",
+      "1/2 tsp garam masala",
+      "1 tsp turmeric powder",
+      "Salt to taste",
+      "2 onions",
+      "7-8 garlic cloves",
+      "1 inch ginger",
+      "4 tomatoes",
+      "8-10 cashews",
+      "1/4 cup peanuts",
+      "2 green chillies",
+      "1 tsp Kashmiri red chilli powder",
+      "1 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1 tsp garam masala",
+      "2 tsp Kasuri Methi",
+      "2 bay leaves",
+      "1/4 cup cream or malai",
+      "4 tsp oil"
+    ],
+    "steps": [
+      "Mix yogurt with all marination ingredients. Add paneer, capsicum, and onion cubes. Marinate for 30 minutes.",
+      "Boil chopped onions, garlic, and ginger. Fry cashews and peanuts. Grind both with the onion mixture.",
+      "Grind tomatoes and green chillies separately.",
+      "Heat oil and saut\u00e9 the onion-nut paste. Add tomato paste and cook well.",
+      "Add spices and water. Simmer, then add cream.",
+      "Shallow-fry marinated paneer and veggies.",
+      "Add them to the gravy, garnish with coriander, and serve with roti or naan."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Egg Curry",
+    "description": "A rich and flavorful egg curry made with golden-fried eggs simmered in a spiced onion-tomato gravy. Perfect with hot parathas, rice, or roti.",
+    "image": "images/recipes/egg-curry.jpg",
+    "time": "40 minutes",
+    "servings": 3,
+    "ingredients": [
+      "5 eggs",
+      "3 onions, finely chopped",
+      "2 tsp ginger-garlic paste",
+      "2 tomatoes, finely chopped",
+      "1/2 bowl coriander leaves, finely chopped",
+      "1 tsp cumin powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1 tsp garam masala powder",
+      "1/4 tsp black pepper powder",
+      "Salt to taste",
+      "1/2 tsp Kasuri Methi",
+      "2 bay leaves",
+      "Oil"
+    ],
+    "steps": [
+      "Boil the eggs for 20 minutes, then peel and set aside.",
+      "Heat oil in a pan and fry the eggs until golden brown. Remove and set aside.",
+      "In the same oil, add cumin seeds and bay leaves. Fry until aromatic.",
+      "Add chopped onions and fry until golden brown.",
+      "Add ginger-garlic paste and chopped tomatoes. Cook until tomatoes are soft.",
+      "Add red chili, turmeric, coriander powder, garam masala, black pepper, and salt. Saut\u00e9 until oil separates.",
+      "Add Kasuri Methi and mix well.",
+      "Add a little water and bring to a boil.",
+      "Add the fried eggs, cover, and simmer for 5 minutes.",
+      "Turn off the heat, garnish with coriander leaves, and serve with roti, rice, or paratha."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Strawberry Smoothie",
+    "description": "A refreshing and fruity smoothie made with fresh strawberries, curd, and milk. Perfect for kids, guests, and summer days.",
+    "image": "/images/recipes/strawberry-smoothie.jpg",
+
+    "time": "5 minutes",
+    "servings": 1,
+    "ingredients": [
+      "4 chopped strawberries",
+      "1 cup curd",
+      "1/2 cup cold milk",
+      "1 tablespoon sugar",
+      "A few ice cubes",
+      "A few strawberry slices (for garnish)"
+    ],
+    "steps": [
+      "Blend strawberries, curd, milk, and sugar together until smooth.",
+      "Add ice cubes to a glass.",
+      "Pour the blended smoothie into the glass.",
+      "Garnish with strawberry slices and serve chilled."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Modak",
+    "description": "A traditional Indian sweet made of coconut and jaggery filling inside soft rice flour shells. Especially prepared for Lord Ganesha during Ganesh Chaturthi.",
+    "image": "/images/recipes/modak.jpg",
+    "time": "45 minutes",
+    "servings": 4,
+    "ingredients": [
+      "2 cups rice flour",
+      "1 tsp sugar",
+      "2 cups jaggery",
+      "2 cups grated coconut",
+      "1 tsp sesame oil",
+      "Cardamom powder (to taste)",
+      "Pinch of salt",
+      "2 cups water (for dough)"
+    ],
+    "steps": [
+      "Dry roast the grated coconut and keep it aside.",
+      "Boil water and add jaggery. Cook until it thickens.",
+      "Add the roasted coconut and cardamom powder to the jaggery mixture. Mix well and set aside.",
+      "Mix rice flour with hot water, oil, and salt. Knead into smooth dough.",
+      "Make small balls, stuff with the filling, and shape into modaks.",
+      "Steam modaks until cooked and offer to Ganpati Bappa."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Baby Potato Fry",
+    "description": "A quick, spicy, and flavorful potato dish made with baby potatoes and Indian spices. Perfect as a side dish or quick snack!",
+    "image": "images/recipes/baby-potato-fry.jpeg",
+    "time": "25 minutes",
+    "servings": 3,
+    "ingredients": [
+      "500g baby potatoes",
+      "1/2 tsp turmeric powder",
+      "2 tsp coriander powder",
+      "1 tsp cumin powder",
+      "1 tsp red chili powder",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp chaat masala",
+      "Salt to taste",
+      "2 tsp oil (for marination)",
+      "Additional oil for frying"
+    ],
+    "steps": [
+      "Wash baby potatoes and pressure cook for 2 whistles. Peel carefully.",
+      "Mix with turmeric, chili powder, cumin powder, salt, and a little oil. Rest for 10 minutes.",
+      "Heat oil, add mustard and cumin seeds. Let them splutter.",
+      "Add marinated potatoes, stir well, and cook covered on low heat for 8\u201310 minutes.",
+      "Sprinkle chaat masala and serve hot."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Mango Barfi",
+    "description": "A rich and fruity Indian sweet made with ripe mangoes, coconut, and sugar. Perfect for summer celebrations and festive occasions.",
+    "image": "images/recipes/mango-barfi.jpeg",
+    "time": "1 hour 15 minutes",
+    "servings": 6,
+    "ingredients": [
+      "2 ripe mangoes",
+      "2 cups coconut powder",
+      "1 cup sugar",
+      "2 tsp cornflour",
+      "8-10 cashews, finely chopped",
+      "8-10 pistachios, finely chopped",
+      "Ghee for greasing the tray"
+    ],
+    "steps": [
+      "Peel and chop mangoes, then blend with sugar and cornflour.",
+      "Dry roast coconut for 2 minutes and set aside.",
+      "Cook mango pulp until it thickens and changes color slightly.",
+      "Add coconut and cook until thick enough to set.",
+      "Grease a tray with ghee, pour in the mixture, and flatten.",
+      "Top with cashews and pistachios. Press gently and let it set for 1 hour.",
+      "Cut into pieces and serve."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Delicious Pakoras",
+    "description": "Crispy, spicy pakoras made with potatoes, onions, and a flavorful blend of Indian spices \u2014 perfect for rainy days and family snacking.",
+    "image": "images/recipes/delicious-pakoras.jpeg",
+    "time": "25 minutes",
+    "servings": 3,
+    "ingredients": [
+      "2 large potatoes, finely chopped",
+      "3 onions, finely chopped",
+      "4-5 green chillies, finely chopped",
+      "1 tsp whole coriander",
+      "1 tsp Kasuri Methi",
+      "1 bowl gram flour (besan)",
+      "Salt to taste",
+      "1 tsp chaat masala",
+      "1 tsp cumin seeds",
+      "1 tsp chili powder (adjust to taste)",
+      "1 tsp turmeric powder",
+      "Chopped coriander leaves",
+      "1 tsp ginger-garlic paste",
+      "Oil for deep frying"
+    ],
+    "steps": [
+      "Combine all chopped ingredients and spices with gram flour.",
+      "Mix and let rest for 2 minutes.",
+      "Heat oil, drop spoonfuls of mixture into hot oil, and fry until golden.",
+      "Serve hot with green chutney or ketchup."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Malai Pista Kulfi",
+    "description": "A rich and creamy frozen dessert made with milk, sugar, pistachios, and cardamom. A classic Indian treat loved by all ages.",
+    "image": "images/recipes/malai-pista-kulfi.jpeg",
+    "time": "8+ hours (freezing time)",
+    "servings": 4,
+    "ingredients": [
+      "1 liter milk",
+      "1 cup sugar",
+      "1/2 tsp cardamom powder",
+      "1/2 cup pistachios, chopped",
+      "2 tsp cream (malai)"
+    ],
+    "steps": [
+      "Boil milk on medium flame until it thickens.",
+      "Add sugar and stir until dissolved.",
+      "Mix in cream, pistachios, and cardamom powder. Turn off heat.",
+      "Cool completely and pour into kulfi molds.",
+      "Freeze for at least 8 hours. Unmold and serve chilled."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Healthy Wood Apple Juice",
+    "description": "A refreshing and medicinal summer drink made from ripe bael (wood apple), known for its digestive and cooling properties.",
+    "image": "images/recipes/wood-apple-juice.jpeg",
+    "time": "2 hours 15 minutes",
+    "servings": 4,
+    "ingredients": [
+      "1 ripe bael (wood apple)",
+      "5 tsp sugar (adjust to taste)",
+      "4-5 glasses of water"
+    ],
+    "steps": [
+      "Break the bael and scoop out the pulp.",
+      "Add water and let soak for 2 hours.",
+      "Mash the pulp and strain using a sieve to remove seeds and fibers.",
+      "Add sugar to taste and stir well.",
+      "Chill and serve the refreshing bael juice."
+    ]
+  }
+]
